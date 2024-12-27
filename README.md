@@ -20,3 +20,7 @@
 <li>Check out my articles on <a href ="https://medium.com/@laksana.sriharan">Medium</a> where I share my journey and insights into software development and performance testing.</li>
 </ul>
 
+📫 Connect with Me
+<ul>
+  <li><a href ="https://www.linkedin.com/in/laksana-sriharan">LinkedIn</a></li>
+</ul>

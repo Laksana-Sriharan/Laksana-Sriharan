@@ -1,5 +1,5 @@
 ## Laksana Sriharan
-🎓 BSc Hons (Computer Science) Undergraduate at University of Jaffna | 💻 Former Intern a WSO2
+🎓 BSc Hons (Computer Science) Undergraduate at University of Jaffna | 💻 Intern at WSO2
 
 🚀 About Me
 <ul>
@@ -10,7 +10,7 @@
 🛠️ Technologies & Tools
 <ul>
   <li>Programming: Python, Java</li>
-  <li>Cloud: Azure, Terraform, Kubernetes</li>
+  <li>Cloud: Azure, Terraform</li>
   <li>Testing: JMeter, k6, Locust</li>
   <li>Visualization: Looker Studio, Grafana</li>
   <li>DevOps: Azure Pipelines</li>

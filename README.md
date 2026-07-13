@@ -1,52 +1,49 @@
 # Laksana Sriharan
-### Software Engineer | Automation · Performance Engineering · Cloud
+### Software Engineer | Automation & Performance Engineering
 
 ---
 
-*Focusing on building robust, scalable systems through automation and performance-driven development.*
+[**LinkedIn**](https://www.linkedin.com/in/laksana-sriharan) • [**Medium**](https://medium.com/@laksana-sriharan) • [**Email**](mailto:laksana.sriharan@gmail.com)
 
-[**LinkedIn**](https://www.linkedin.com/in/laksana-sriharan) • [**Medium**](https://medium.com/@laksana.sriharan) • [**Email**](mailto:laksana.sriharan@gmail.com)
+---
 
-<br/>
+### ◈ Professional Overview
+Dedicated to building scalable, high-performance systems through rigorous automation and infrastructure optimization[cite: 1]. 
 
-## Profile Summary
-Computer Science graduate from the University of Jaffna with a background in software quality and cloud infrastructure. Specialized in bridging the gap between development and reliability through automated workflows and performance testing.
+*   **Engineering Focus:** Performance testing, cloud-native architecture, and test automation[cite: 1].
+*   **Background:** BSc (Hons) Computer Science, University of Jaffna[cite: 1].
+*   **Professional History:** Software Engineering Intern at [WSO2](https://wso2.com)[cite: 1].
 
-*   **Education:** BSc (Hons) Computer Science, University of Jaffna
-*   **Industry Experience:** Software Engineering Intern @ [WSO2](https://wso2.com)[cite: 1]
-*   **Core Competencies:** Performance testing, cloud-native infrastructure, and automated testing pipelines
+---
 
-<br/>
+### ◈ Technical Competencies
 
-## Technical Expertise
-
-| Domain | Technologies |
+| System Domain | Tooling & Frameworks |
 | :--- | :--- |
+| **Automation** | Playwright, Postman, Selenium |
+| **Performance** | JMeter, k6, Grafana |
 | **Languages** | Java, Python, SQL |
-| **Testing & Automation** | JMeter, k6, Postman, Playwright |
-| **DevOps & Cloud** | Azure DevOps, Git, Grafana |
-| **Methodologies** | Agile/Scrum, SDLC, STLC, OOP |
+| **Infrastructure** | Azure DevOps, Git, Cloud CI/CD |
 
-<br/>
+---
 
-## GitHub Statistics
+### ◈ Insights & Knowledge Sharing
+Documenting technical transitions in automated checkout systems and model architectures, such as YOLOv10 comparisons[cite: 1].
+
+*   **Recent Work:** Analysis of currency recognition models and detection frameworks[cite: 1].
+*   **Platform:** [Read my technical insights on Medium](https://medium.com/@laksana.sriharan)[cite: 1].
+
+---
+
+### ◈ Developer Metrics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Laksana-Sriharan&show_icons=false&theme=transparent&hide_border=true&title_color=60a5fa&text_color=c9d1d9" width="45%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laksana-Sriharan&layout=compact&theme=transparent&hide_border=true&title_color=60a5fa&text_color=c9d1d9" width="45%"/>
+<!-- Modern minimalist stats, using transparent themes for a sleeker look -->
+<img src="https://github-readme-stats.vercel.app/api?username=Laksana-Sriharan&show_icons=false&theme=transparent&hide_border=true&title_color=ffffff&text_color=888888" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laksana-Sriharan&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=888888" width="45%"/>
 
 </div>
-
-<br/>
-
-## Technical Writing
-Author of guides and technical deep-dives regarding testing frameworks, automation strategies, and cloud engineering principles[cite: 1]. 
-
-*   **Platform:** [Medium](https://medium.com/@laksana.sriharan)[cite: 1]
-*   **Focus:** Bridging software engineering theory with practical application in automated checkout and recognition systems[cite: 1].
-
-<br/>
 
 ---
 <div align="center">

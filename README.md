@@ -1,49 +1,97 @@
 <div align="center">
 
-# Laksana Sriharan
-### Software Engineer | Performance Engineering · Cloud · Automation
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=150&section=header&text=Laksana%20Sriharan&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=42" width="100%"/>
 
----
-
-[**LinkedIn**](https://www.linkedin.com/in/laksana-sriharan) • [**Medium**](https://medium.com/@laksana.sriharan) • [**Email**](mailto:laksana.sriharan@gmail.com)
+<h3>Software Engineer in the making — Automation · Performance Testing · Cloud</h3>
 
 </div>
 
 <br/>
 
-### ◈ Strategy & Focus
-I build high-reliability systems by merging robust performance testing with automated cloud infrastructure[cite: 1]. My technical work emphasizes efficiency, scalability, and the integration of advanced ML models into real-world automated checkout environments[cite: 1].
-
----
-
-### ◈ Core Technology Stack
-*Use these clean, uniform SVG-based icons for a premium look.*
+### About
 
 <div align="center">
 
-| Automation | Performance | Cloud & DevOps |
-| :---: | :---: | :---: |
-| <img src="https://cdn.simpleicons.org/playwright/38bdf8" width="30"/> | <img src="https://cdn.simpleicons.org/apachejmeter/38bdf8" width="30"/> | <img src="https://cdn.simpleicons.org/azuredevops/38bdf8" width="30"/> |
-| <img src="https://cdn.simpleicons.org/postman/38bdf8" width="30"/> | <img src="https://cdn.simpleicons.org/k6/38bdf8" width="30"/> | <img src="https://cdn.simpleicons.org/grafana/38bdf8" width="30"/> |
+BSc (Hons) Computer Science — University of Jaffna &nbsp;•&nbsp; Intern @ **[WSO2](https://wso2.com)**
+<br/>
+Focused on automation, performance testing, and cloud infrastructure
+<br/>
+Writing on **[Medium](https://medium.com/@laksana.sriharan)** &nbsp;•&nbsp; laksana.sriharan@gmail.com
 
 </div>
 
----
+<br/>
 
-### ◈ Engineering Experience
-*   **Performance Engineering & Automation:** Focused on deep-testing frameworks to optimize system stability[cite: 1].
-*   **Architecture Research:** Analyzed YOLOv10, Faster R-CNN, and SSD architectures for currency recognition systems[cite: 1].
-*   **Professional Background:** Software Engineering Intern at [WSO2](https://wso2.com)[cite: 1].
-*   **Academic Foundation:** BSc (Hons) Computer Science, University of Jaffna[cite: 1].
-
----
-
-### ◈ Technical Insights
-*   **Featured Analysis:** A deep dive into comparing modern object detection architectures[cite: 1].
-*   **Writing:** [Explore my technical articles on Medium](https://medium.com/@laksana.sriharan)[cite: 1].
-
----
+## Tech Stack
 
 <div align="center">
-<sub>© 2026 Laksana Sriharan — Built with precision.</sub>
+
+**Programming & Database**
+<br/><br/>
+<img src="https://img.shields.io/badge/Java-1e293b?style=for-the-badge&logo=java&logoColor=60a5fa" />
+<img src="https://img.shields.io/badge/Python-1e293b?style=for-the-badge&logo=python&logoColor=60a5fa" />
+<img src="https://img.shields.io/badge/SQL-1e293b?style=for-the-badge&logo=mysql&logoColor=60a5fa" />
+<img src="https://img.shields.io/badge/MySQL-1e293b?style=for-the-badge&logo=mysql&logoColor=60a5fa" />
+
+<br/><br/>
+
+**Testing & Automation**
+<br/><br/>
+<img src="https://img.shields.io/badge/JMeter-1e293b?style=for-the-badge&logo=apachejmeter&logoColor=60a5fa" />
+<img src="https://img.shields.io/badge/k6-1e293b?style=for-the-badge&logo=k6&logoColor=60a5fa" />
+<img src="https://img.shields.io/badge/Postman-1e293b?style=for-the-badge&logo=postman&logoColor=60a5fa" />
+<img src="https://img.shields.io/badge/Playwright-1e293b?style=for-the-badge&logo=playwright&logoColor=60a5fa" />
+
+<br/><br/>
+
+**DevOps & Delivery**
+<br/><br/>
+<img src="https://img.shields.io/badge/Git-1e293b?style=for-the-badge&logo=git&logoColor=60a5fa" />
+<img src="https://img.shields.io/badge/Azure_DevOps-1e293b?style=for-the-badge&logo=azuredevops&logoColor=60a5fa" />
+<img src="https://img.shields.io/badge/Grafana-1e293b?style=for-the-badge&logo=grafana&logoColor=60a5fa" />
+
+<br/><br/>
+
+**Practice & Concepts**
+<br/><br/>
+<img src="https://img.shields.io/badge/Agile-1e293b?style=for-the-badge&logoColor=60a5fa" />
+<img src="https://img.shields.io/badge/Scrum-1e293b?style=for-the-badge&logoColor=60a5fa" />
+<img src="https://img.shields.io/badge/OOP-1e293b?style=for-the-badge&logoColor=60a5fa" />
+<img src="https://img.shields.io/badge/STLC-1e293b?style=for-the-badge&logoColor=60a5fa" />
+<img src="https://img.shields.io/badge/SDLC-1e293b?style=for-the-badge&logoColor=60a5fa" />
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-1e293b?style=for-the-badge&logoColor=60a5fa" />
+
 </div>
+
+<br/>
+
+## Writing
+
+<div align="center">
+
+Guides and write-ups on testing, automation, and cloud engineering.
+&nbsp;&nbsp;→&nbsp;&nbsp; **[medium.com/@laksana.sriharan](https://medium.com/@laksana.sriharan)**
+
+</div>
+
+<br/>
+
+## Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/laksana-sriharan" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:laksana.sriharan@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://medium.com/@laksana.sriharan" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+</a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=90&section=footer" width="100%"/>

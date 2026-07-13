@@ -22,46 +22,61 @@ Writing on **[Medium](https://medium.com/@laksana.sriharan)** &nbsp;•&nbsp; la
 
 <br/>
 
-## Tech Stack
-
 <div align="center">
 
-**Programming & Database**
-<br/><br/>
-<img src="https://img.shields.io/badge/Java-1e293b?style=for-the-badge&logo=java&logoColor=60a5fa" />
-<img src="https://img.shields.io/badge/Python-1e293b?style=for-the-badge&logo=python&logoColor=60a5fa" />
-<img src="https://img.shields.io/badge/SQL-1e293b?style=for-the-badge&logo=mysql&logoColor=60a5fa" />
-<img src="https://img.shields.io/badge/MySQL-1e293b?style=for-the-badge&logo=mysql&logoColor=60a5fa" />
-
-<br/><br/>
-
-**Testing & Automation**
-<br/><br/>
-<img src="https://img.shields.io/badge/JMeter-1e293b?style=for-the-badge&logo=apachejmeter&logoColor=60a5fa" />
-<img src="https://img.shields.io/badge/k6-1e293b?style=for-the-badge&logo=k6&logoColor=60a5fa" />
-<img src="https://img.shields.io/badge/Postman-1e293b?style=for-the-badge&logo=postman&logoColor=60a5fa" />
-<img src="https://img.shields.io/badge/Playwright-1e293b?style=for-the-badge&logo=playwright&logoColor=60a5fa" />
-
-<br/><br/>
-
-**DevOps & Delivery**
-<br/><br/>
-<img src="https://img.shields.io/badge/Git-1e293b?style=for-the-badge&logo=git&logoColor=60a5fa" />
-<img src="https://img.shields.io/badge/Azure_DevOps-1e293b?style=for-the-badge&logo=azuredevops&logoColor=60a5fa" />
-<img src="https://img.shields.io/badge/Grafana-1e293b?style=for-the-badge&logo=grafana&logoColor=60a5fa" />
-
-<br/><br/>
-
-**Practice & Concepts**
-<br/><br/>
-<img src="https://img.shields.io/badge/Agile-1e293b?style=for-the-badge&logoColor=60a5fa" />
-<img src="https://img.shields.io/badge/Scrum-1e293b?style=for-the-badge&logoColor=60a5fa" />
-<img src="https://img.shields.io/badge/OOP-1e293b?style=for-the-badge&logoColor=60a5fa" />
-<img src="https://img.shields.io/badge/STLC-1e293b?style=for-the-badge&logoColor=60a5fa" />
-<img src="https://img.shields.io/badge/SDLC-1e293b?style=for-the-badge&logoColor=60a5fa" />
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-1e293b?style=for-the-badge&logoColor=60a5fa" />
+<img src="https://github-stats-extended.vercel.app/api?username=Laksana-Sriharan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=60a5fa&text_color=c9d1d9" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Laksana-Sriharan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9" height="165"/>
 
 </div>
+
+<br/>
+
+## Tech Stack
+
+<table align="center">
+<tr>
+<td valign="top" width="18%"><b>Programming</b></td>
+<td valign="top" width="82%">
+<img src="https://img.shields.io/badge/Java-1e293b?style=flat-square&logo=java&logoColor=60a5fa" />
+<img src="https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=60a5fa" />
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Database</b></td>
+<td valign="top">
+<img src="https://img.shields.io/badge/SQL-1e293b?style=flat-square&logo=mysql&logoColor=60a5fa" />
+<img src="https://img.shields.io/badge/MySQL-1e293b?style=flat-square&logo=mysql&logoColor=60a5fa" />
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Testing & Automation</b></td>
+<td valign="top">
+<img src="https://img.shields.io/badge/JMeter-1e293b?style=flat-square&logo=apachejmeter&logoColor=60a5fa" />
+<img src="https://img.shields.io/badge/k6-1e293b?style=flat-square&logo=k6&logoColor=60a5fa" />
+<img src="https://img.shields.io/badge/Postman-1e293b?style=flat-square&logo=postman&logoColor=60a5fa" />
+<img src="https://img.shields.io/badge/Playwright-1e293b?style=flat-square&logo=playwright&logoColor=60a5fa" />
+</td>
+</tr>
+<tr>
+<td valign="top"><b>DevOps & Delivery</b></td>
+<td valign="top">
+<img src="https://img.shields.io/badge/Git-1e293b?style=flat-square&logo=git&logoColor=60a5fa" />
+<img src="https://img.shields.io/badge/Azure_DevOps-1e293b?style=flat-square&logo=azuredevops&logoColor=60a5fa" />
+<img src="https://img.shields.io/badge/Grafana-1e293b?style=flat-square&logo=grafana&logoColor=60a5fa" />
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Practice & Concepts</b></td>
+<td valign="top">
+<img src="https://img.shields.io/badge/Agile-1e293b?style=flat-square&logoColor=60a5fa" />
+<img src="https://img.shields.io/badge/Scrum-1e293b?style=flat-square&logoColor=60a5fa" />
+<img src="https://img.shields.io/badge/OOP-1e293b?style=flat-square&logoColor=60a5fa" />
+<img src="https://img.shields.io/badge/STLC-1e293b?style=flat-square&logoColor=60a5fa" />
+<img src="https://img.shields.io/badge/SDLC-1e293b?style=flat-square&logoColor=60a5fa" />
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-1e293b?style=flat-square&logoColor=60a5fa" />
+</td>
+</tr>
+</table>
 
 <br/>
 

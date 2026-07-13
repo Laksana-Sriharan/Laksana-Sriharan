@@ -1,51 +1,49 @@
+<div align="center">
+
 # Laksana Sriharan
-### Software Engineer | Automation & Performance Engineering
+### Software Engineer | Performance Engineering · Cloud · Automation
 
 ---
 
-[**LinkedIn**](https://www.linkedin.com/in/laksana-sriharan) • [**Medium**](https://medium.com/@laksana-sriharan) • [**Email**](mailto:laksana.sriharan@gmail.com)
+[**LinkedIn**](https://www.linkedin.com/in/laksana-sriharan) • [**Medium**](https://medium.com/@laksana.sriharan) • [**Email**](mailto:laksana.sriharan@gmail.com)
+
+</div>
+
+<br/>
+
+### ◈ Strategy & Focus
+I build high-reliability systems by merging robust performance testing with automated cloud infrastructure[cite: 1]. My technical work emphasizes efficiency, scalability, and the integration of advanced ML models into real-world automated checkout environments[cite: 1].
 
 ---
 
-### ◈ Professional Overview
-Dedicated to building scalable, high-performance systems through rigorous automation and infrastructure optimization[cite: 1]. 
-
-*   **Engineering Focus:** Performance testing, cloud-native architecture, and test automation[cite: 1].
-*   **Background:** BSc (Hons) Computer Science, University of Jaffna[cite: 1].
-*   **Professional History:** Software Engineering Intern at [WSO2](https://wso2.com)[cite: 1].
-
----
-
-### ◈ Technical Competencies
-
-| System Domain | Tooling & Frameworks |
-| :--- | :--- |
-| **Automation** | Playwright, Postman, Selenium |
-| **Performance** | JMeter, k6, Grafana |
-| **Languages** | Java, Python, SQL |
-| **Infrastructure** | Azure DevOps, Git, Cloud CI/CD |
-
----
-
-### ◈ Insights & Knowledge Sharing
-Documenting technical transitions in automated checkout systems and model architectures, such as YOLOv10 comparisons[cite: 1].
-
-*   **Recent Work:** Analysis of currency recognition models and detection frameworks[cite: 1].
-*   **Platform:** [Read my technical insights on Medium](https://medium.com/@laksana.sriharan)[cite: 1].
-
----
-
-### ◈ Developer Metrics
+### ◈ Core Technology Stack
+*Use these clean, uniform SVG-based icons for a premium look.*
 
 <div align="center">
 
-<!-- Modern minimalist stats, using transparent themes for a sleeker look -->
-<img src="https://github-readme-stats.vercel.app/api?username=Laksana-Sriharan&show_icons=false&theme=transparent&hide_border=true&title_color=ffffff&text_color=888888" width="45%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laksana-Sriharan&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=888888" width="45%"/>
+| Automation | Performance | Cloud & DevOps |
+| :---: | :---: | :---: |
+| <img src="https://cdn.simpleicons.org/playwright/38bdf8" width="30"/> | <img src="https://cdn.simpleicons.org/apachejmeter/38bdf8" width="30"/> | <img src="https://cdn.simpleicons.org/azuredevops/38bdf8" width="30"/> |
+| <img src="https://cdn.simpleicons.org/postman/38bdf8" width="30"/> | <img src="https://cdn.simpleicons.org/k6/38bdf8" width="30"/> | <img src="https://cdn.simpleicons.org/grafana/38bdf8" width="30"/> |
 
 </div>
 
 ---
+
+### ◈ Engineering Experience
+*   **Performance Engineering & Automation:** Focused on deep-testing frameworks to optimize system stability[cite: 1].
+*   **Architecture Research:** Analyzed YOLOv10, Faster R-CNN, and SSD architectures for currency recognition systems[cite: 1].
+*   **Professional Background:** Software Engineering Intern at [WSO2](https://wso2.com)[cite: 1].
+*   **Academic Foundation:** BSc (Hons) Computer Science, University of Jaffna[cite: 1].
+
+---
+
+### ◈ Technical Insights
+*   **Featured Analysis:** A deep dive into comparing modern object detection architectures[cite: 1].
+*   **Writing:** [Explore my technical articles on Medium](https://medium.com/@laksana.sriharan)[cite: 1].
+
+---
+
 <div align="center">
-<sub>© 2026 Laksana Sriharan</sub>
+<sub>© 2026 Laksana Sriharan — Built with precision.</sub>
 </div>

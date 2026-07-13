@@ -35,21 +35,21 @@ Writing on **[Medium](https://medium.com/@laksana.sriharan)** &nbsp;•&nbsp; la
 
 <table align="center">
 <tr>
-<td valign="top" width="18%"><b>🔹 Programming</b></td>
+<td valign="top" width="18%"><b> Programming</b></td>
 <td valign="top" width="82%">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </td>
 </tr>
 <tr>
-<td valign="top"><b>🔹 Database</b></td>
+<td valign="top"><b> Database</b></td>
 <td valign="top">
 <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=databricks&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </td>
 </tr>
 <tr>
-<td valign="top"><b>🔹 Testing & Automation</b></td>
+<td valign="top"><b> Testing & Automation</b></td>
 <td valign="top">
 <img src="https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white" />
 <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white" />
@@ -58,7 +58,7 @@ Writing on **[Medium](https://medium.com/@laksana.sriharan)** &nbsp;•&nbsp; la
 </td>
 </tr>
 <tr>
-<td valign="top"><b>🔹 DevOps & Delivery</b></td>
+<td valign="top"><b> DevOps & Delivery</b></td>
 <td valign="top">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
@@ -66,7 +66,7 @@ Writing on **[Medium](https://medium.com/@laksana.sriharan)** &nbsp;•&nbsp; la
 </td>
 </tr>
 <tr>
-<td valign="top"><b>🔹 Practice & Concepts</b></td>
+<td valign="top"><b> Practice & Concepts</b></td>
 <td valign="top">
 <img src="https://img.shields.io/badge/Agile-8B5CF6?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/Scrum-06B6D4?style=flat-square&logoColor=white" />
